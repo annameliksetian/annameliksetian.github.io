@@ -1,9 +1,8 @@
 ---
-title: Anna Meliksetian - CV
+title: CV
 ---
 # Anna Meliksetian  
 
-![](assets/photo.jpg)
 <img src="assets/photo.jpg" alt="My photo" width="200" style="border-radius: 50%;">
 
 _PhD candidate / Cognitive Neuroscience_  
