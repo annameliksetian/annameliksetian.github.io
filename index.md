@@ -1,34 +1,27 @@
----
-title: Anna Meliksetian
----
 
-# Anna Meliksetian 
+<link rel="stylesheet" href="styles.css">
 
-_PhD Candidate / COgnitive Neuroscience_  
+<div class="container">
+  <div class="sidebar">
+    <img src="assets/photo.jpg" alt="My photo" class="profile-pic">
+    <h1>Your Name</h1>
+    <p>Email: your@email.com</p>
+    <p>Website: yourwebsite.com</p>
+  </div>
 
-**Email:** msumeliksetian@gmail.com  
-**GitHub:** [annameliksetian](https://github.com/annameliksetian)  
-**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+  <div class="content">
+    # About Me
+    Write a brief introduction here.
 
-## About Me  
-in progress  
+    ## Talks
+    - **Conference Talk 1** - Conference Name, Year
+    - **Invited Talk** - Lab Name, Year
+    - **Guest Lecture** - Course Name, Institution, Year
 
-## Skills  
-- in progress  
+    ## Publications
+    - Author1, Author2. *Title of Paper*. Journal, Year.
 
-## Experience  
-**Job Title** – in progress (Year – Year)  
-- in progress.  
-
-**in progress** – Company (Year – Year)  
-- in progress.  
-
-## Education  
-**Degree** – University (Year – Year)  
-
-## Projects  
-- [Project Name](https://github.com/yourusername/project) – Short project description.  
-- Another project.  
-
-## Contact  
-You can reach me via email or on [LinkedIn](https://linkedin.com/in/yourname).  
+    ## Contact
+    Feel free to reach out via email!
+  </div>
+</div>
