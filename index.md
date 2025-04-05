@@ -29,11 +29,13 @@ Lomonosov Moscow State University, Moscow, Russia:
 - **Assistant: Department of Work Psychology** (2017 – 2018)  
 
 ## Publications  
-**Formation of grammatical skills in the English language based on the didactic system of Piotr Galperin** (in Russian). Scientific-Methodological Electronic Journal “Concept,” 26, 786–790, 2016, ISSN 2304-120X, [link](https://e-koncept.ru/2016/46958.htm)
+*Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition (submitted Feb, 2025).
 
-**Implementation of philosophical foundations of humane pedagogy on the example of the student project “Epidemic of Mastery”** (in Russian). Scientific-Methodological Electronic Journal “Concept”, 3, 61–65, 2015, ISSN 2304-120X, [link](https://e-koncept.ru/2015/65263.htm)
+*Meliksetian.* **Formation of grammatical skills in the English language based on the didactic system of Piotr Galperin** (in Russian). Scientific-Methodological Electronic Journal “Concept,” 26, 786–790, 2016, ISSN 2304-120X, [link](https://e-koncept.ru/2016/46958.htm)
 
-**Usage of children’s literature as the foundation of an art therapy program with children under state care: a review of experience** (in Russian). Scientific Journal “The Young Scientist”, 22.1, 143–146, 2015, ISSN 2072-0297, [link](https://moluch.ru/archive/102/23234/)
+*Meliksetian.* **Implementation of philosophical foundations of humane pedagogy on the example of the student project “Epidemic of Mastery”** (in Russian). Scientific-Methodological Electronic Journal “Concept”, 3, 61–65, 2015, ISSN 2304-120X, [link](https://e-koncept.ru/2015/65263.htm)
+
+*Meliksetian.* **Usage of children’s literature as the foundation of an art therapy program with children under state care: a review of experience** (in Russian). Scientific Journal “The Young Scientist”, 22.1, 143–146, 2015, ISSN 2072-0297, [link](https://moluch.ru/archive/102/23234/)
 
 ## Invited Talks
 - **Exploring the role of language proximity in language and domain-general control in multilinguals**. 
