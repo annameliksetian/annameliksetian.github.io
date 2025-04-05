@@ -7,7 +7,7 @@ _PhD candidate / Cognitive Neuroscience_
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)  
 
 ## About  
-I am a PhD student at Jagiellonian University and a member of the LangUsta (Psychology of Language and Bilingualism) lab in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
+I am a PhD student at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
 
 ## Education  
 - **PhD, Cognitive Neuroscience** 
@@ -108,58 +108,75 @@ Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscienc
 - **Bachelor's Degree: diploma with honors** (July 2017). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. 
 
 ## Summer schools and workshops
-- Cognitive Neuroimaging Skills Training In Cambridge (COGNESTIC), *MRC Cognition and Brain Sciences Unit, University of Cambridge, 16 - 27 Sep, 2024.*
+- Cognitive Neuroimaging Skills Training In Cambridge (COGNESTIC). MRC Cognition and Brain Sciences Unit, University of Cambridge, 16 - 27 Sep, 2024.
   
-- Eighth Summer School on Statistical Methods for Linguistics and Psychology (Introduction to Bayesian data analysis), *University of Potsdam, 9 - 13 Sep, 2024.*
+- Eighth Summer School on Statistical Methods for Linguistics and Psychology (Introduction to Bayesian data analysis). University of Potsdam, 9 - 13 Sep, 2024.
 
-- Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics), *University of Potsdam, 11 - 15 Sep, 2024.*
+- Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics). University of Potsdam, 11 - 15 Sep, 2024.
 
-- International Max Planck Research School for Language Sciences, *Max Planck Institute for Psycholinguistics, 5 – 7 June, 2024.*
+- International Max Planck Research School for Language Sciences. Max Planck Institute for Psycholinguistics, 5 – 7 June, 2024.
 
-- Creating Successful Research Posters, *Springer Nature - a Nature Masterclasses online course, 17 Apr, 2024.*
+- Creating Successful Research Posters. Springer Nature - a Nature Masterclasses online course, 17 Apr, 2024.
 
-- Hierarchical and Mixed Effects Models in R, *DataCamp, 18 Apr, 2023.*
+- Hierarchical and Mixed Effects Models in R. DataCamp, 18 Apr, 2023.
 
-- Barcelona Summer School on Bilingualism and Multilingualism, *Pompeu Fabra University, 23 - 15 Sept, 2022.*
+- Barcelona Summer School on Bilingualism and Multilingualism. Pompeu Fabra University, 23 - 15 Sept, 2022.
 
-- Theory and Practice of Bayesian Hypothesis Testins: a JASP Workshop, *University of Amsterdam, 29 – 30 Aug, 2022.*
+- Theory and Practice of Bayesian Hypothesis Testins: a JASP Workshop. University of Amsterdam, 29 – 30 Aug, 2022.
 
-- V-NYI #5 Summer School in Linguistics, Cognitive and Cultural Studies, *NYI Global Institute of Cultural, Cognitive, and Linguistic studies, 20  June - 15 July, 2022.*
+- V-NYI #5 Summer School in Linguistics, Cognitive and Cultural Studies. NYI Global Institute of Cultural, Cognitive, and Linguistic studies, 20  June - 15 July, 2022.
 
-- Mixed-effects Models in R, Model Selection and Contrasts Coding, *Jagiellonian University, 22 - 23 June 2022.*
+- Mixed-effects Models in R, Model Selection and Contrasts Coding. Jagiellonian University, 22 - 23 June 2022.
 
-- Introduction to the Tidyverse, *DataCamp, 11 Mar, 2021.*
+- Introduction to the Tidyverse. DataCamp, 11 Mar, 2021.
 
-- Intermediate R, *DataCamp, 15 Jan, 2021.*
+- Intermediate R. DataCamp, 15 Jan, 2021.
 
 ## Research projects
 **PI: Language control and domain-general control ub the context of migration: a study on the Ukrainian migrant population in Poland** (Feb 2025 - present). 
-As a continuation of the UC Irvine PIRE research project, I investigate whether the context of migration modulates the engagement of langauge control and domain-general control in Ukrainian - Polish late bilinguals.
+
+As a continuation of the UC Irvine PIRE research project, I investigate whether the context of migration modulates the engagement of language control and domain-general control in Ukrainian - Polish late bilinguals.
+
 *Scientific advisor: prof. dr Zofia Wodniecka*
+
 *Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Exploring language proximity and magnitude of language control during multilingual language production** (Oct 2021 - present). 
+
 In my PhD project, I investigate the relationship between language proximity and language control in bilinguals. I aim to compare the magnitude of language control and domain-general cognitive control indices in several bilingual groups that speak languages with varying degrees of language proximity.
+
 *Scientific advisor: prof. dr Zofia Wodniecka*
+
 *Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Vocabulary learning strategies in acquiring an artificial language grammatically similar to Polish** (Sept 2020 - July 2021). 
+
 I compared the effectiveness of vocabulary learning strategies when learning a language similar to one's native. Participants - native Ukrainian speakers - had to learn the vocabulary of an artificial language similar to Polish. The word association strategy showed the highest effectiveness in vocabulary learning.
+
 *Scientific advisor: prof. dr Zofia Wodniecka*
+
 *Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Strategies of word search and recognition in native Japanese, Chinese and Russian bilinguals** (Sept 2017 - June 2019). 
+
 During my graduate studies, I explored the strategies of word search and recognition utilized by the Russian, Japanese and Chinese native speakers with varying level of language proficiency in English. The registration of eye-movement patterns revealed the association of the unique features of strategies with the group differences in the native language writing system, the level of English proficiency, and the language background.
+
 *Scientific advisor: dr Irina Blinnikova*
+
 *Affiliation: Lomonosov Moscow State University, Moscow, Russia*
 
 **RA: How language experience impacts cognitive control** (Mar 2018 - July 2018). 
+
 I participated in the implementation of the research project "How language experience impacts cognitive control" supported by a grant awarded to Penn State University, USA, and Polish National Science Center, Poland. I performed the duties of a research assistant and interacted with the study participants during the experimental sessions.
+
 *Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Structural features of children's narratives and their connection to dialectic thinking in senior preschoolers** (Sept 2013 - June 2017). 
+
 During my undergraduate studies, I explored the children's narratives created with the help of a visual model and identified their main structural features. I then attempted to draw connections between the structural features in a child narrative and their stage of the dialectic thinking development.
+
 *Scientific advisor: dr Olga Shiyan*
+
 *Affiliation: Russian State University for the Humanities, Moscow, Russia*
 
 ## Languages
