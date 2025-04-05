@@ -1,4 +1,4 @@
- <img src="assets/photo.jpg" alt="My photo" width="200" style="border-radius: 0;">
+ <img src="assets/photo.jpg" alt="My photo" width="200" style="border-radius: 10%;">
 
 _PhD candidate / Cognitive Neuroscience_  
 
@@ -7,7 +7,7 @@ _PhD candidate / Cognitive Neuroscience_
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)  
 
 ## About  
-I am a PhD student at Jagiellonian University and a member of the LangUsta (Psychology of Language and Bilingualism) lab in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether the there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
+I am a PhD student at Jagiellonian University and a member of the LangUsta (Psychology of Language and Bilingualism) lab in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
 
 ## Education  
 - **PhD, Cognitive Neuroscience** 
@@ -165,7 +165,7 @@ During my undergraduate studies, I explored the children's narratives created wi
 ## Languages
 - Russian (native speaker)
 - Armenian (native spreaker, limited proficiency)
-- English (C1)
+- English (C2)
 - Polish (B2)
 
 ## Contact  
