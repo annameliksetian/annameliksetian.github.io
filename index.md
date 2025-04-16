@@ -69,9 +69,6 @@ The NYI Global Institute of Cultural, Cognitive and Linguistic Studies - V-NYI #
 - **How Bilingualism Became the Norm and Monolingualism the Illiteracy of the 21st Century**. 
 Lane Kirkland Scholarship Program Alumni Congress, 6 - 7 Nov 2021 (talk).
 
-- **How Bilingualism Became the Norm and Monolingualism the Illiteracy of the 21st Century**. 
-Lane Kirkland Scholarship Program Alumni Congress, 6 - 7 Nov 2021 (talk).
-
 - **Cognitive factors in creating narratives by preschool children**. 
 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, 14 - 17 Nov 2016 (talk).
 
