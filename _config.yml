@@ -1,7 +1,4 @@
 title: Anna Meliksetian - CV
 theme: minima
-sass:
-  style: compressed
-markdown: kramdown
 include:
   - assets/css/style.css
