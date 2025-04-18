@@ -1,4 +1,3 @@
-<aside>
 <img src="assets/photo.jpg" alt="My photo" width="200" style="border-radius: 10%;">
 
 _PhD candidate / Cognitive Neuroscience_  
@@ -6,9 +5,7 @@ _PhD candidate / Cognitive Neuroscience_
 - **Email:** anna.meliksetian@doctoral.uj.edu.pl
 - **OCRID:** [0009-0004-0163-6745](https://orcid.org/0009-0004-0163-6745)  
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
-</aside>
 
-<main>
 ## About  
 I am a PhD student at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
 
@@ -189,4 +186,3 @@ During my undergraduate studies, I explored the children's narratives created wi
 
 ## Contact  
 You can reach me via email (anna.meliksetian@doctoral.uj.edu.pl) or on [LinkedIn](https://linkedin.com/in/ameliksetian).  
-</main>
