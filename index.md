@@ -1,3 +1,4 @@
+<img src="assets/photo.jpg" alt="My photo" width="200" style="border-radius: 10%;">
 _PhD candidate / Cognitive Neuroscience_  
 
 - **Email:** anna.meliksetian@doctoral.uj.edu.pl
