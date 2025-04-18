@@ -111,11 +111,11 @@ Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscienc
   
 - Eighth Summer School on Statistical Methods for Linguistics and Psychology (Introduction to Bayesian data analysis). University of Potsdam, 9 - 13 Sep, 2024.
 
-- Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics). University of Potsdam, 11 - 15 Sep, 2024.
-
 - International Max Planck Research School for Language Sciences. Max Planck Institute for Psycholinguistics, 5 – 7 June, 2024.
 
 - Creating Successful Research Posters. Springer Nature - a Nature Masterclasses online course, 17 Apr, 2024.
+  
+- Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics). University of Potsdam, 11 - 15 Sep, 2023.
 
 - Hierarchical and Mixed Effects Models in R. DataCamp, 18 Apr, 2023.
 
