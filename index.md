@@ -82,9 +82,16 @@ Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąb
 - **Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. 
 Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka, 26 Nov, 2024.
 
+## Memberships and affiliations
+
+- **LangUsta – Psychology of Language and Bilingualism Lab, Jagiellonian University**. I am a doctoral researcher at LangUsta, where I investigate language control and domain-general control in multilinguals. Our page: [langusta.psychologia.uj.edu.pl/people] (https://langusta.psychologia.uj.edu.pl/people).
+
+- **Bilingualism Matters – Kraków Branch**. As a member of Bilingualism Matters Kraków, I help promote research-based awareness of bilingualism among educators, families, and policymakers. Our page: [bmkrakow.uj.edu.pl/zespol](https://bmkrakow.uj.edu.pl/zespol).
+
+
 ## Grants and scholarships
 
-- **Research grant "Research Support Module" within the Excellence Initiative** (Oct 2024). I received a grant for the implementation of a project exploring the role of the context of migration on language control in multilingual language production in a collaboration with prof. dr Judith Kroll and PhD candidate Guadalupe Mesdosa. Grant nr: WSPR.WSDNS.1.4.2024.41(2).
+- **Research grant "Research Support Module" within the Excellence Initiative** (Oct 2024). I received a grant for the data collection within a project exploring the role of the context of migration on language control in multilingual language production in a collaboration with prof. dr Judith Kroll and PhD candidate Guadalupe Mesdosa. Grant nr: WSPR.WSDNS.1.4.2024.41(2).
 
 - **Scholarship for young researchers, Polish National Science Centre** (Oct 2022). I received a stipend for working on a project "Competition or cooperation? Impact of short-term and long-term language experience on language regulation and cognitive functions in bilinguals" implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: UMO-2015/18/E/HS6/00428.
 
@@ -125,27 +132,19 @@ Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscienc
 
 - V-NYI #5 Summer School in Linguistics, Cognitive and Cultural Studies. NYI Global Institute of Cultural, Cognitive, and Linguistic studies, 20  June - 15 July, 2022.
 
-- Mixed-effects Models in R, Model Selection and Contrasts Coding. Jagiellonian University, 22 - 23 June 2022.
+- Mixed-effects Models in R, Model Selection and Contrasts Coding. Jagiellonian University, 22 - 23 June, 2022.
 
 - Introduction to the Tidyverse. DataCamp, 11 Mar, 2021.
 
 - Intermediate R. DataCamp, 15 Jan, 2021.
 
 ## Research projects
-**PI: Language control and domain-general control in the context of migration: a study on the Ukrainian migrant population in Poland** (Feb 2025 - present). 
-
-As a continuation of the UC Irvine PIRE research project, I investigate whether the context of migration modulates the engagement of language control and domain-general control in Ukrainian - Polish late bilinguals.
-
-*Scientific advisor: prof. dr Zofia Wodniecka*
-
-*Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Exploring language proximity and magnitude of language control during multilingual language production** (Oct 2021 - present). 
 
 In my PhD project, I investigate the relationship between language proximity and language control in bilinguals. I aim to compare the magnitude of language control and domain-general cognitive control indices in several bilingual groups that speak languages with varying degrees of language proximity.
 
 *Scientific advisor: prof. dr Zofia Wodniecka*
-
 *Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Vocabulary learning strategies in acquiring an artificial language grammatically similar to Polish** (Sept 2020 - July 2021). 
@@ -153,7 +152,6 @@ In my PhD project, I investigate the relationship between language proximity and
 I compared the effectiveness of vocabulary learning strategies when learning a language similar to one's native. Participants - native Ukrainian speakers - had to learn the vocabulary of an artificial language similar to Polish. The word association strategy showed the highest effectiveness in vocabulary learning.
 
 *Scientific advisor: prof. dr Zofia Wodniecka*
-
 *Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Strategies of word search and recognition in native Japanese, Chinese and Russian bilinguals** (Sept 2017 - June 2019). 
@@ -161,7 +159,6 @@ I compared the effectiveness of vocabulary learning strategies when learning a l
 During my graduate studies, I explored the strategies of word search and recognition utilized by the Russian, Japanese and Chinese native speakers with varying level of language proficiency in English. The registration of eye-movement patterns revealed the association of the unique features of strategies with the group differences in the native language writing system, the level of English proficiency, and the language background.
 
 *Scientific advisor: dr Irina Blinnikova*
-
 *Affiliation: Lomonosov Moscow State University, Moscow, Russia*
 
 **RA: How language experience impacts cognitive control** (Mar 2018 - July 2018). 
@@ -175,7 +172,6 @@ I participated in the implementation of the research project "How language exper
 During my undergraduate studies, I explored the children's narratives created with the help of a visual model and identified their main structural features. I then attempted to draw connections between the structural features in a child narrative and their stage of the dialectic thinking development.
 
 *Scientific advisor: dr Olga Shiyan*
-
 *Affiliation: Russian State University for the Humanities, Moscow, Russia*
 
 ## Languages
