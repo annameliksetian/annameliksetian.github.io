@@ -38,112 +38,151 @@ Lomonosov Moscow State University, Moscow, Russia:
 *Meliksetian.* **Usage of children’s literature as the foundation of an art therapy program with children under state care: a review of experience** (in Russian). Scientific Journal “The Young Scientist”, 22.1, 143–146, 2015, ISSN 2072-0297, [link](https://moluch.ru/archive/102/23234/)
 
 ## Invited Talks
-- **Does language proximity modulate language co-activation and domain-general control in multilinguals?**. 
+**Does language proximity modulate language co-activation and domain-general control in multilinguals?**.   
 The Bilingualism, Mind, and Brain Lab Talk, University of California, Irvine, Jul 21, 2025 (hosted by prof. dr Judith Kroll).
 
-- **Exploring the role of language proximity in language and domain-general control in multilinguals**. 
+**Exploring the role of language proximity in language and domain-general control in multilinguals**.   
 Northeastern University London, Oct 23, 2024 (hosted by dr Julia Hofweber).
 
 ## Conference Presentations
-- **Does language proximity modulate language co-activation and domain-general control in multilinguals?**. 
+
+### 2025
+**Bilingualism Matters - current projects organised by the Kraków Branch**.   
+The Spring/Summer Institute-wide Poster Session (SIPS), June 27, 2025 (poster presentation).
+
+**Does language proximity modulate language co-activation and domain-general control in multilinguals?**.   
 The 15th International Symposium on Bilingualism (ISB15), June 9 – 13, 2025 (talk).
 
-- **Exploring the role of language proximity in language and domain-general control in multilinguals**. 
+**Exploring the role of language proximity in language and domain-general control in multilinguals**.   
 Adaptations to Multilingualism and the Role of Linguistic Proximity (ATOM), February 13 – 14, 2025 (talk).
 
-- **How does the presence of cognates impact the engagement of language control?**. 
+### 2024
+**How does the presence of cognates impact the engagement of language control?**.   
 Highlights in the Language Sciences Conference (HILS), July 8 – 11, 2024 (poster preparation).
 
-- **Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. 
-Spring/Summer Institute-wide Poster Session (SIPS), June 14, 2024 (poster presentation).
+**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**.   
+The Spring/Summer Institute-wide Poster Session (SIPS), June 14, 2024 (poster presentation).
 
-- **Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. 
+**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**.   
 Conference on Multilingualism (COM), June 10 - 12, 2024 (poster presentation).
 
-- **Mutual Intelligibility Of Czech, Russian, And Spanish In Relation To Polish: the role of shared phonology and semantics**. 
- International Max Planck Research School (IMPRS) for Language Sciences, June 5 – 7, 2024 (poster presentation).
+**Mutual Intelligibility Of Czech, Russian, And Spanish In Relation To Polish: the role of shared phonology and semantics**.   
+International Max Planck Research School (IMPRS) for Language Sciences, June 5 – 7, 2024 (poster presentation).
 
-- **Impact of cross-language similarity on language control**. 
+**Impact of cross-language similarity on language control**.   
 NEURONUS Neuroscience Forum, 25 - 27 Apr, 2024 (poster presentation).
 
-- **Exploring cross-language similarity and language control in multilingual language production**. 
+### 2022
+
+**Exploring cross-language similarity and language control in multilingual language production**.   
 Barcelona Summer School on Bilingualism and Multilingualism (BSBM), 23 - 15 Sept, 2022 (talk).
 
-- **Language control during language production: the role of cross-language similarity**. 
+**Language control during language production: the role of cross-language similarity**.   
 The NYI Global Institute of Cultural, Cognitive and Linguistic Studies - V-NYI #5 CogFest, 13 July, 2022 (talk).
 
-- **How Bilingualism Became the Norm and Monolingualism the Illiteracy of the 21st Century**. 
+### 2021
+**How Bilingualism Became the Norm and Monolingualism the Illiteracy of the 21st Century**.    
 Lane Kirkland Scholarship Program Alumni Congress, 6 - 7 Nov 2021 (talk).
 
-- **Cognitive factors in creating narratives by preschool children**. 
+### 2016
+**Cognitive factors in creating narratives by preschool children**.   
 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, 14 - 17 Nov 2016 (talk).
 
 ## Guest Lectures
-- **L2 Acquisition in Adult Language Learners**. 
+**L2 Acquisition in Adult Language Learners**.  
 Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka, 6 May, 2025.
 
-- **Is two better than one? Cognitive consequences of bilingualism**. 
+**Is two better than one? Cognitive consequences of bilingualism**.  
 Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka, 25 Mar, 2025.
 
-- **Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. 
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**.  
 Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek, 26 Feb, 2025.
 
-- **Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. 
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**.  
 Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka, 26 Nov, 2024.
 
 ## Memberships and affiliations
 
-- **LangUsta – Psychology of Language and Bilingualism Lab, Jagiellonian University**. I am a doctoral researcher at LangUsta, where I investigate language control and domain-general control in multilinguals. Our page: [langusta.psychologia.uj.edu.pl/people](https://langusta.psychologia.uj.edu.pl/people).
+**LangUsta – Psychology of Language and Bilingualism Lab, Jagiellonian University**.   
+I am a doctoral researcher at LangUsta, where I investigate language control and domain-general control in multilinguals. Our page: [langusta.psychologia.uj.edu.pl/people](https://langusta.psychologia.uj.edu.pl/people).
 
-- **Bilingualism Matters – Kraków Branch**. As a member of Bilingualism Matters Kraków, I help promote research-based awareness of bilingualism among educators, families, and policymakers. Our page: [bmkrakow.uj.edu.pl/zespol](https://bmkrakow.uj.edu.pl/zespol).
+**Bilingualism Matters – Kraków Branch**.   
+As a member of Bilingualism Matters Kraków, I help promote research-based awareness of bilingualism among educators, families, and policymakers. Our page: [bmkrakow.uj.edu.pl/zespol](https://bmkrakow.uj.edu.pl/zespol).
 
 ## Grants and scholarships
-- **Research funding "Research Support Module" within the Excellence Initiative** (Oct 2024). I received a grant for the data collection within a project exploring the role of the context of migration on language control in multilingual language production in a collaboration with prof. dr Judith Kroll and PhD candidate Guadalupe Mesdosa. Grant nr: WSPR.WSDNS.1.4.2024.41(2).
+**Research funding "Research Support Module" within the Excellence Initiative** (Oct 2024).  
+I received a grant for the data collection within a project exploring the role of the context of migration on language control in multilingual language production in a collaboration with prof. dr Judith Kroll and PhD candidate Guadalupe Mesdosa. Grant nr: WSPR.WSDNS.1.4.2024.41(2).
 
-- **Scholarship for young researchers, Polish National Science Centre** (Oct 2022). I received a stipend for working on a project "Competition or cooperation? Impact of short-term and long-term language experience on language regulation and cognitive functions in bilinguals" implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: UMO-2015/18/E/HS6/00428.
+**Scholarship for young researchers, Polish National Science Centre** (Oct 2022).  
+I received a stipend for working on a project "Competition or cooperation? Impact of short-term and long-term language experience on language regulation and cognitive functions in bilinguals" implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: UMO-2015/18/E/HS6/00428.
 
-- **Research funding "Research Support Module" within the Excellence Initiative** (July 2022). I received a grant for the implementation of a project exploring the role of mutual intelligibility on language control in multilingual language production, which then constituted a part of my PhD project. Grant nr: WSPR.WFiloz.1.5.2022.7.
+**Research funding "Research Support Module" within the Excellence Initiative** (July 2022).  
+I received a grant for the implementation of a project exploring the role of mutual intelligibility on language control in multilingual language production, which then constituted a part of my PhD project. Grant nr: WSPR.WFiloz.1.5.2022.7.
 
-- **The Lane Kirkland Program Scholarship** (Sep 2020 - June 2021). I was awarded a scholarship for two-term university training at selected Polish universities within the Lane Kirkland Scholarship Program. The Program is funded by the Polish-American Freedom Foundation and is administered by the Leaders of Change Foundation. During the program, I explored vocabulary learning strategies of Ukrainian natives learning Polish as a foreign language.
+**The Lane Kirkland Program Scholarship** (Sep 2020 - June 2021).  
+I was awarded a scholarship for two-term university training at selected Polish universities within the Lane Kirkland Scholarship Program. The Program is funded by the Polish-American Freedom Foundation and is administered by the Leaders of Change Foundation. During the program, I explored vocabulary learning strategies of Ukrainian natives learning Polish as a foreign language.
 
-- **ERASMUS+ Academic Mobility Program Scholarship** (Feb - July 2019). I was selected to participate in the ERASMUS+ Academic Mobility Program. During one semester, I studied at the Institute of Psychology in Jagiellonian University, successfully passing 8 courses (34 ECTS) with GPA of 4.9.
+**ERASMUS+ Academic Mobility Program Scholarship** (Feb - July 2019).  
+I was selected to participate in the ERASMUS+ Academic Mobility Program. During one semester, I studied at the Institute of Psychology in Jagiellonian University, successfully passing 8 courses (34 ECTS) with GPA of 4.9.
 
-- **First prize: National Level Competition in Psychology for the Undergraduate Students** (May 2017). I was awarded first prize in the National Undergraduate Psychology Competition organized by Lomonosov Moscow State University. As a result of this achievement, I became eligible to apply for graduate studies at Russia’s top-ranked university with a full tuition waiver.
+**First prize: National Level Competition in Psychology for the Undergraduate Students** (May 2017).  
+I was awarded first prize in the National Undergraduate Psychology Competition organized by Lomonosov Moscow State University. As a result of this achievement, I became eligible to apply for graduate studies at Russia’s top-ranked university with a full tuition waiver.
 
-- **Advanced State Academic Scholarship for Scientific Merit** (Sep 2015 - Feb 2016). I was awarded the Advanced State Academic Scholarship in recognition of my scientific merit, a distinction granted to students demonstrating outstanding academic excellence.
+**Advanced State Academic Scholarship for Scientific Merit** (Sep 2015 - Feb 2016).  
+I was awarded the Advanced State Academic Scholarship in recognition of my scientific merit, a distinction granted to students demonstrating outstanding academic excellence.
 
 ## Awards and recognitions
 
-- **The Lane Kirkland Program completion: diploma with honors** (June 2021). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. Program website: [kirkland.edu.pl/en](kirkland.edu.pl/en).
+**The Lane Kirkland Program completion: diploma with honors** (June 2021).  
+I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. Program website: [kirkland.edu.pl/en](kirkland.edu.pl/en).
 
-- **Master's Degree: diploma with honors** (July 2019). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. 
+**Master's Degree: diploma with honors** (July 2019).  
+I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. 
 
-- **Bachelor's Degree: diploma with honors** (July 2017). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. 
+**Bachelor's Degree: diploma with honors** (July 2017).  
+I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. 
 
 ## Summer schools and workshops
-- Cognitive Neuroimaging Skills Training In Cambridge (COGNESTIC). MRC Cognition and Brain Sciences Unit, University of Cambridge, 16 - 27 Sep, 2024.
+
+### 2024
+Cognitive Neuroimaging Skills Training In Cambridge (COGNESTIC). 
+*MRC Cognition and Brain Sciences Unit, University of Cambridge, 16 - 27 Sep, 2024.*
   
-- Eighth Summer School on Statistical Methods for Linguistics and Psychology (Introduction to Bayesian data analysis). University of Potsdam, 9 - 13 Sep, 2024.
+Eighth Summer School on Statistical Methods for Linguistics and Psychology (Introduction to Bayesian data analysis).  
+*University of Potsdam, 9 - 13 Sep, 2024.*
 
-- International Max Planck Research School for Language Sciences. Max Planck Institute for Psycholinguistics, 5 – 7 June, 2024.
+International Max Planck Research School for Language Sciences.  
+*Max Planck Institute for Psycholinguistics, 5 – 7 June, 2024.*
 
-- Creating Successful Research Posters. Springer Nature - a Nature Masterclasses online course, 17 Apr, 2024.
-  
-- Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics). University of Potsdam, 11 - 15 Sep, 2023.
+Creating Successful Research Posters.  
+*Springer Nature - a Nature Masterclasses online course, 17 Apr, 2024.*
 
-- Hierarchical and Mixed Effects Models in R. DataCamp, 18 Apr, 2023.
+### 2023
+Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics).  
+*University of Potsdam, 11 - 15 Sep, 2023.*
 
-- Barcelona Summer School on Bilingualism and Multilingualism. Pompeu Fabra University, 23 - 15 Sept, 2022.
+Hierarchical and Mixed Effects Models in R.  
+*DataCamp, 18 Apr, 2023.*
 
-- Theory and Practice of Bayesian Hypothesis Testins: a JASP Workshop. University of Amsterdam, 29 – 30 Aug, 2022.
+### 2022
+Barcelona Summer School on Bilingualism and Multilingualism.  
+*Pompeu Fabra University, 23 - 15 Sept, 2022.*
 
-- V-NYI #5 Summer School in Linguistics, Cognitive and Cultural Studies. NYI Global Institute of Cultural, Cognitive, and Linguistic studies, 20  June - 15 July, 2022.
+Theory and Practice of Bayesian Hypothesis Testins: a JASP Workshop.  
+*University of Amsterdam, 29 – 30 Aug, 2022.*
 
-- Mixed-effects Models in R, Model Selection and Contrasts Coding. Jagiellonian University, 22 - 23 June, 2022.
+V-NYI #5 Summer School in Linguistics, Cognitive and Cultural Studies.  
+*NYI Global Institute of Cultural, Cognitive, and Linguistic studies, 20  June - 15 July, 2022.*
 
-- Introduction to the Tidyverse. DataCamp, 11 Mar, 2021.
+Mixed-effects Models in R, Model Selection and Contrasts Coding.  
+*Jagiellonian University, 22 - 23 June, 2022.*
 
-- Intermediate R. DataCamp, 15 Jan, 2021.
+### 2021
+Introduction to the Tidyverse.  
+*DataCamp, 11 Mar, 2021.*
+
+Intermediate R.  
+*DataCamp, 15 Jan, 2021.*
 
 ## Research projects
 
