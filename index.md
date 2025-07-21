@@ -7,17 +7,17 @@ _PhD candidate / Cognitive Neuroscience_
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
 ## About  
-I am a PhD student at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
+I am a doctoral candidate at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
 
 ## Education  
-- **PhD candidate, Cognitive Neuroscience** 
-- Jagiellonian University, Kraków, Poland (2021 – 2026)  
+- **PhD candidate, Cognitive Neuroscience**  
+Jagiellonian University, Kraków, Poland (2021 – 2026)  
 
-- **MSc, Theoretical and Experimental Psychology** (with honors) 
-- Lomonosov Moscow State University, Moscow, Russia (2017 – 2019)
+- **MSc, Theoretical and Experimental Psychology** (with honors)  
+Lomonosov Moscow State University, Moscow, Russia (2017 – 2019)
 
-- **BA, Psychology and Pedagogy in Education** (with honors) 
-- Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
+- **BA, Psychology and Pedagogy in Education** (with honors)  
+Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
 
 ## Work Experience 
 Foxford Online School, Moscow, Russia:
