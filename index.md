@@ -157,24 +157,21 @@ In a collaborative project with the Bilingualism, Mind, and Brain Lab, I investi
 
 In my PhD project, I investigate the relationship between language proximity and language control in bilinguals. I aim to compare the magnitude of language control and domain-general cognitive control indices in several bilingual groups that speak languages with varying degrees of language proximity.
 
-*Scientific advisor: prof. dr Zofia Wodniecka*
-
+*Scientific advisor: prof. dr Zofia Wodniecka*  
 *Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Vocabulary learning strategies in acquiring an artificial language grammatically similar to Polish** (Sept 2020 - July 2021). 
 
 I compared the effectiveness of vocabulary learning strategies when learning a language similar to one's native. Participants - native Ukrainian speakers - had to learn the vocabulary of an artificial language similar to Polish. The word association strategy showed the highest effectiveness in vocabulary learning.
 
-*Scientific advisor: prof. dr Zofia Wodniecka*
-
+*Scientific advisor: prof. dr Zofia Wodniecka*  
 *Affiliation: Jagiellonian University, Cracow, Poland*
 
 **PI: Strategies of word search and recognition in native Japanese, Chinese and Russian bilinguals** (Sept 2017 - June 2019). 
 
 During my graduate studies, I explored the strategies of word search and recognition utilized by the Russian, Japanese and Chinese native speakers with varying level of language proficiency in English. The registration of eye-movement patterns revealed the association of the unique features of strategies with the group differences in the native language writing system, the level of English proficiency, and the language background.
 
-*Scientific advisor: dr Irina Blinnikova*
-
+*Scientific advisor: dr Irina Blinnikova*  
 *Affiliation: Lomonosov Moscow State University, Moscow, Russia*
 
 **RA: How language experience impacts cognitive control** (Mar 2018 - July 2018). 
@@ -187,8 +184,7 @@ I participated in the implementation of the research project "How language exper
 
 During my undergraduate studies, I explored the children's narratives created with the help of a visual model and identified their main structural features. I then attempted to draw connections between the structural features in a child narrative and their stage of the dialectic thinking development.
 
-*Scientific advisor: dr Olga Shiyan*
-
+*Scientific advisor: dr Olga Shiyan*  
 *Affiliation: Russian State University for the Humanities, Moscow, Russia*
 
 ## Languages
