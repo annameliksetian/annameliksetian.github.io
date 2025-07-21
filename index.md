@@ -38,9 +38,10 @@ Lomonosov Moscow State University, Moscow, Russia:
 *Meliksetian.* **Usage of children’s literature as the foundation of an art therapy program with children under state care: a review of experience** (in Russian). Scientific Journal “The Young Scientist”, 22.1, 143–146, 2015, ISSN 2072-0297, [link](https://moluch.ru/archive/102/23234/)
 
 ## Invited Talks
-- **Does language proximity modulate language co-activation and domain-general control in multilinguals?**. The Bilingualism, Mind, and Brain Lab Talk, University of California, Irvine, Jul 21, 2025 (hosted by prof. dr Judith Kroll).
 
-- **Exploring the role of language proximity in language and domain-general control in multilinguals**. Northeastern University London, Oct 23, 2024 (hosted by dr Julia Hofweber).
+**Does language proximity modulate language co-activation and domain-general control in multilinguals?**. The Bilingualism, Mind, and Brain Lab Talk, University of California, Irvine, Jul 21, 2025 (hosted by prof. dr Judith Kroll).
+
+**Exploring the role of language proximity in language and domain-general control in multilinguals**. Northeastern University London, Oct 23, 2024 (hosted by dr Julia Hofweber).
 
 ## Conference Presentations
 
@@ -76,13 +77,13 @@ Lomonosov Moscow State University, Moscow, Russia:
 **Cognitive factors in creating narratives by preschool children**. 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, 14 - 17 Nov 2016 (talk).
 
 ## Guest Lectures
-- **L2 Acquisition in Adult Language Learners**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka, 6 May, 2025.
+**L2 Acquisition in Adult Language Learners**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka, 6 May, 2025.
 
-- **Is two better than one? Cognitive consequences of bilingualism**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka, 25 Mar, 2025.
+**Is two better than one? Cognitive consequences of bilingualism**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka, 25 Mar, 2025.
 
-- **Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek, 26 Feb, 2025.
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek, 26 Feb, 2025.
 
-- **Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka, 26 Nov, 2024.
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka, 26 Nov, 2024.
 
 ## Memberships and affiliations
 
