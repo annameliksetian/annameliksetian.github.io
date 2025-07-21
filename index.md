@@ -45,34 +45,35 @@ Lomonosov Moscow State University, Moscow, Russia:
 ## Conference Presentations
 
 ### 2025
-- **Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), June 27, 2025 (poster presentation).
 
-- **Does language proximity modulate language co-activation and domain-general control in multilinguals?**. The 15th International Symposium on Bilingualism (ISB15), June 9 – 13, 2025 (talk).
+**Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), June 27, 2025 (poster presentation).
 
-- **Exploring the role of language proximity in language and domain-general control in multilinguals**. Adaptations to Multilingualism and the Role of Linguistic Proximity (ATOM), February 13 – 14, 2025 (talk).
+**Does language proximity modulate language co-activation and domain-general control in multilinguals?**. The 15th International Symposium on Bilingualism (ISB15), June 9 – 13, 2025 (talk).
+
+**Exploring the role of language proximity in language and domain-general control in multilinguals**. Adaptations to Multilingualism and the Role of Linguistic Proximity (ATOM), February 13 – 14, 2025 (talk).
 
 ### 2024
-- **How does the presence of cognates impact the engagement of language control?**. Highlights in the Language Sciences Conference (HILS), July 8 – 11, 2024 (poster preparation).
+**How does the presence of cognates impact the engagement of language control?**. Highlights in the Language Sciences Conference (HILS), July 8 – 11, 2024 (poster preparation).
 
-- **Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), June 14, 2024 (poster presentation).
+**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), June 14, 2024 (poster presentation).
 
-- **Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. Conference on Multilingualism (COM), June 10 - 12, 2024 (poster presentation).
+**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. Conference on Multilingualism (COM), June 10 - 12, 2024 (poster presentation).
 
-- **Mutual Intelligibility Of Czech, Russian, And Spanish In Relation To Polish: the role of shared phonology and semantics**. International Max Planck Research School (IMPRS) for Language Sciences, June 5 – 7, 2024 (poster presentation).
+**Mutual Intelligibility Of Czech, Russian, And Spanish In Relation To Polish: the role of shared phonology and semantics**. International Max Planck Research School (IMPRS) for Language Sciences, June 5 – 7, 2024 (poster presentation).
 
-- **Impact of cross-language similarity on language control**. NEURONUS Neuroscience Forum, 25 - 27 Apr, 2024 (poster presentation).
+**Impact of cross-language similarity on language control**. NEURONUS Neuroscience Forum, 25 - 27 Apr, 2024 (poster presentation).
 
 ### 2022
 
-- **Exploring cross-language similarity and language control in multilingual language production**. Barcelona Summer School on Bilingualism and Multilingualism (BSBM), 23 - 15 Sept, 2022 (talk).
+**Exploring cross-language similarity and language control in multilingual language production**. Barcelona Summer School on Bilingualism and Multilingualism (BSBM), 23 - 15 Sept, 2022 (talk).
 
-- **Language control during language production: the role of cross-language similarity**. The NYI Global Institute of Cultural, Cognitive and Linguistic Studies - V-NYI #5 CogFest, 13 July, 2022 (talk).
+**Language control during language production: the role of cross-language similarity**. The NYI Global Institute of Cultural, Cognitive and Linguistic Studies - V-NYI #5 CogFest, 13 July, 2022 (talk).
 
 ### 2021
-- **How Bilingualism Became the Norm and Monolingualism the Illiteracy of the 21st Century**. Lane Kirkland Scholarship Program Alumni Congress, 6 - 7 Nov 2021 (talk).
+**How Bilingualism Became the Norm and Monolingualism the Illiteracy of the 21st Century**. Lane Kirkland Scholarship Program Alumni Congress, 6 - 7 Nov 2021 (talk).
 
 ### 2016
-- **Cognitive factors in creating narratives by preschool children**. 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, 14 - 17 Nov 2016 (talk).
+**Cognitive factors in creating narratives by preschool children**. 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, 14 - 17 Nov 2016 (talk).
 
 ## Guest Lectures
 - **L2 Acquisition in Adult Language Learners**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka, 6 May, 2025.
@@ -115,32 +116,32 @@ Lomonosov Moscow State University, Moscow, Russia:
 ## Summer schools and workshops
 
 ### 2024
-- Cognitive Neuroimaging Skills Training In Cambridge (COGNESTIC). *MRC Cognition and Brain Sciences Unit, University of Cambridge, 16 - 27 Sep, 2024.*
+Cognitive Neuroimaging Skills Training In Cambridge (COGNESTIC). *MRC Cognition and Brain Sciences Unit, University of Cambridge, 16 - 27 Sep, 2024.*
   
-- Eighth Summer School on Statistical Methods for Linguistics and Psychology (Introduction to Bayesian data analysis). *University of Potsdam, 9 - 13 Sep, 2024.*
+Eighth Summer School on Statistical Methods for Linguistics and Psychology (Introduction to Bayesian data analysis). *University of Potsdam, 9 - 13 Sep, 2024.*
 
-- International Max Planck Research School for Language Sciences. *Max Planck Institute for Psycholinguistics, 5 – 7 June, 2024.*
+International Max Planck Research School for Language Sciences. *Max Planck Institute for Psycholinguistics, 5 – 7 June, 2024.*
 
-- Creating Successful Research Posters. *Springer Nature - a Nature Masterclasses online course, 17 Apr, 2024.*
+Creating Successful Research Posters. *Springer Nature - a Nature Masterclasses online course, 17 Apr, 2024.*
 
 ### 2023
-- Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics). *University of Potsdam, 11 - 15 Sep, 2023.*
+Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics). *University of Potsdam, 11 - 15 Sep, 2023.*
 
-- Hierarchical and Mixed Effects Models in R. *DataCamp, 18 Apr, 2023.*
+Hierarchical and Mixed Effects Models in R. *DataCamp, 18 Apr, 2023.*
 
 ### 2022
-- Barcelona Summer School on Bilingualism and Multilingualism. *Pompeu Fabra University, 23 - 15 Sept, 2022.*
+Barcelona Summer School on Bilingualism and Multilingualism. *Pompeu Fabra University, 23 - 15 Sept, 2022.*
 
-- Theory and Practice of Bayesian Hypothesis Testins: a JASP Workshop. *University of Amsterdam, 29 – 30 Aug, 2022.*
+Theory and Practice of Bayesian Hypothesis Testins: a JASP Workshop. *University of Amsterdam, 29 – 30 Aug, 2022.*
 
-- V-NYI #5 Summer School in Linguistics, Cognitive and Cultural Studies. *NYI Global Institute of Cultural, Cognitive, and Linguistic studies, 20  June - 15 July, 2022.*
+V-NYI #5 Summer School in Linguistics, Cognitive and Cultural Studies. *NYI Global Institute of Cultural, Cognitive, and Linguistic studies, 20  June - 15 July, 2022.*
 
-- Mixed-effects Models in R, Model Selection and Contrasts Coding. *Jagiellonian University, 22 - 23 June, 2022.*
+Mixed-effects Models in R, Model Selection and Contrasts Coding. *Jagiellonian University, 22 - 23 June, 2022.*
 
 ### 2021
-- Introduction to the Tidyverse. *DataCamp, 11 Mar, 2021.*
+Introduction to the Tidyverse. *DataCamp, 11 Mar, 2021.*
 
-- Intermediate R. *DataCamp, 15 Jan, 2021.*
+Intermediate R. *DataCamp, 15 Jan, 2021.*
 
 ## Research projects
 
