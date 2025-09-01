@@ -49,7 +49,7 @@ Lomonosov Moscow State University, Moscow, Russia:
 
 ### 2025
 
-**Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 27, 2025 (poster presentation).
+**Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), Cracow, Poland, June 27, 2025 (poster presentation).
 
 **Does language proximity modulate language co-activation and domain-general control in multilinguals?**. The 15th International Symposium on Bilingualism (ISB15), San-Sebastian, Spain, June 9 – 13, 2025 (talk).
 
@@ -58,13 +58,13 @@ Lomonosov Moscow State University, Moscow, Russia:
 ### 2024
 **How does the presence of cognates impact the engagement of language control?**. Highlights in the Language Sciences Conference (HILS), Nijmegen, the Netherlands, July 8 – 11, 2024 (poster preparation).
 
-**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 14, 2024 (poster presentation).
+**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), Cracow, Poland, June 14, 2024 (poster presentation).
 
 **Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. Conference on Multilingualism (COM), Aix-en-Provence, France, June 10 - 12, 2024 (poster presentation).
 
 **Mutual Intelligibility Of Czech, Russian, And Spanish In Relation To Polish: the role of shared phonology and semantics**. International Max Planck Research School (IMPRS) for Language Sciences, Nijmegen, the Netherlands, June 5 – 7, 2024 (poster presentation).
 
-**Impact of cross-language similarity on language control**. NEURONUS Neuroscience Forum, Kraków, Poland, 25 - 27 Apr, 2024 (poster presentation).
+**Impact of cross-language similarity on language control**. NEURONUS Neuroscience Forum, Cracow, Poland, 25 - 27 Apr, 2024 (poster presentation).
 
 ### 2022
 
@@ -79,13 +79,13 @@ Lomonosov Moscow State University, Moscow, Russia:
 **Cognitive factors in creating narratives by preschool children**. 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, Moscow, Russia, 14 - 17 Nov 2016 (talk).
 
 ## Guest Lectures
-**L2 Acquisition in Adult Language Learners**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, 6 May, 2025.
+**L2 Acquisition in Adult Language Learners**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Cracow, Poland, 6 May, 2025.
 
-**Is two better than one? Cognitive consequences of bilingualism**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, 25 Mar, 2025.
+**Is two better than one? Cognitive consequences of bilingualism**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Cracow, Poland, 25 Mar, 2025.
 
-**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek; Jagiellonian University, Kraków, Poland, 26 Feb, 2025.
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek; Jagiellonian University, Cracow, Poland, 26 Feb, 2025.
 
-**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, Nov, 2024.
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Cracow, Poland, Nov, 2024.
 
 ## Memberships and affiliations
 
@@ -197,5 +197,5 @@ During my undergraduate studies, I explored the children's narratives created wi
 ## Contact  
 You can reach me via email (anna.meliksetian@doctoral.uj.edu.pl) or on [LinkedIn](https://linkedin.com/in/ameliksetian).  
 
-Last updated on Jul 21, 2025
+Last updated on Sep 1, 2025
 
