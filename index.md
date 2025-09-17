@@ -30,13 +30,13 @@ Lomonosov Moscow State University, Moscow, Russia:
 
 ## Academic Service
 Cognition - International Journal of Cognitive Science:
-- **Ad hoc Reviewer** (2025 – present)
+- **Ad hoc Reviewer** (2025 – present). *Reviewed submitted articles in the field of psycholinguistics and bilingualism.*
 
 Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Poland:
-- **Organizing Committee Member** (Sep 2025).
+- **Organizing Committee Member** (Sep 2025). *Selected talks and contributed to designing the scientific program of the conference.*
 
-Social Camp Project: *Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw*
-- **Mentor in the field of EdTech** (2024 - 2025). *I conducted 10 one-hour mentoring sessions with an early-stage entrepreneur in the field of education technology.*
+Social Camp Project. *Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw*:
+- **Mentor in the field of EdTech** (2024 - 2025). *Conducted 10 one-hour mentoring sessions with an early-stage entrepreneur in the field of education technology.*
 
 ## Publications  
 *Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition (R&R, Sep 2025).
@@ -51,7 +51,7 @@ Social Camp Project: *Social Camp is a project that aims to support informal edu
 
 **Academia in Poland - career opportunities**. PIRE Program in Language Learning and Bilingualism Undergraduate Meeting, University of California, Irvine, Aug 13, 2025 (hosted by prof. dr Judith Kroll).
 
-**Does language proximity modulate language co-activation and domain-general control in multilinguals?**. The Bilingualism, Mind, and Brain Lab Talk, University of California, Irvine, Jul 21, 2025 (hosted by prof. dr Judith Kroll).
+**Does language proximity modulate language co-activation and domain-general control in multilinguals?** The Bilingualism, Mind, and Brain Lab Talk, University of California, Irvine, Jul 21, 2025 (hosted by prof. dr Judith Kroll).
 
 **Exploring the role of language proximity in language and domain-general control in multilinguals**. Northeastern University London, Oct 23, 2024 (hosted by dr Julia Hofweber).
 
@@ -62,12 +62,12 @@ Social Camp Project: *Social Camp is a project that aims to support informal edu
 
 **Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 27, 2025 (poster presentation).
 
-**Does language proximity modulate language co-activation and domain-general control in multilinguals?**. The 15th International Symposium on Bilingualism (ISB15), San-Sebastian, Spain, June 9 – 13, 2025 (talk).
+**Does language proximity modulate language co-activation and domain-general control in multilinguals?** The 15th International Symposium on Bilingualism (ISB15), San-Sebastian, Spain, June 9 – 13, 2025 (talk).
 
 **Exploring the role of language proximity in language and domain-general control in multilinguals**. Adaptations to Multilingualism and the Role of Linguistic Proximity (ATOM), Barcelona, Spain, February 13 – 14, 2025 (talk).
 
 ### 2024
-**How does the presence of cognates impact the engagement of language control?**. Highlights in the Language Sciences Conference (HILS), Nijmegen, the Netherlands, July 8 – 11, 2024 (poster preparation).
+**How does the presence of cognates impact the engagement of language control?** Highlights in the Language Sciences Conference (HILS), Nijmegen, the Netherlands, July 8 – 11, 2024 (poster preparation).
 
 **Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 14, 2024 (poster presentation).
 
@@ -106,7 +106,7 @@ Social Camp Project: *Social Camp is a project that aims to support informal edu
 ## Grants and scholarships
 **Research funding "Research Support Module" within the Excellence Initiative** (Oct 2024). I received a grant for the data collection within a project exploring the role of the context of migration on language control in multilingual language production in a collaboration with prof. dr Judith Kroll and PhD candidate Guadalupe Mesdosa. Grant nr: WSPR.WSDNS.1.4.2024.41(2).
 
-**Scholarship for young researchers, Polish National Science Centre** (Oct 2022). I received a stipend for working on a project "Competition or cooperation? Impact of short-term and long-term language experience on language regulation and cognitive functions in bilinguals" implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: UMO-2015/18/E/HS6/00428.
+**Stipend for young researchers, Polish National Science Centre** (Oct 2022). I received a stipend for working on a project "Competition or cooperation? Impact of short-term and long-term language experience on language regulation and cognitive functions in bilinguals" implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: UMO-2015/18/E/HS6/00428.
 
 **Research funding "Research Support Module" within the Excellence Initiative** (July 2022). I received a grant for the implementation of a project exploring the role of mutual intelligibility on language control in multilingual language production, which then constituted a part of my PhD project. Grant nr: WSPR.WFiloz.1.5.2022.7.
 
