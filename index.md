@@ -7,7 +7,7 @@ _PhD candidate / Cognitive Neuroscience_
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
 ## About  
-I am a doctoral candidate at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
+I am a doctoral candidate at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on multilinguals speaking languages of varying level of proximity. Specifically, I explore whether language proximity modulates the engagement of language control and domain-general control processes. In my free time, I engage in various educational and EdTech projects.
 
 ## Education  
 - **PhD candidate, Cognitive Neuroscience**  
@@ -22,14 +22,24 @@ Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
 ## Work Experience 
 Foxford Online School, Moscow, Russia:
 - **Metrics Analyst** (2020 – 2021)  
-- **Course Administrator** (2020 – 2020)
+- **Product Administrator** (2020 – 2020)
 - **Methodologist** (2019 – 2020)
 
 Lomonosov Moscow State University, Moscow, Russia:
-- **Assistant: Department of Work Psychology** (2017 – 2018)  
+- **Assistant: Department of Work Psychology** (2017 – 2018)
+
+## Academic Service
+Cognition - International Journal of Cognitive Science:
+- **Ad hoc Reviewer** (2025 – present)
+
+Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Poland:
+- **Organizing Committee Member** (Sep 2025).
+
+Social Camp Project: *Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw*
+- **Mentor in the field of EdTech** (2024 - 2025). *I conducted 10 one-hour mentoring sessions with an early-stage entrepreneur in the field of education technology.*
 
 ## Publications  
-*Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition (submitted Feb, 2025).
+*Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition (R&R, Sep 2025).
 
 *Meliksetian.* **Formation of grammatical skills in the English language based on the didactic system of Piotr Galperin** (in Russian). Scientific-Methodological Electronic Journal “Concept,” 26, 786–790, 2016, ISSN 2304-120X, [link](https://e-koncept.ru/2016/46958.htm)
 
@@ -48,8 +58,9 @@ Lomonosov Moscow State University, Moscow, Russia:
 ## Conference Presentations
 
 ### 2025
+**Defining Language Proximity**. Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Kraków, Poland, September 29 - 30 (talk).
 
-**Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), Cracow, Poland, June 27, 2025 (poster presentation).
+**Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 27, 2025 (poster presentation).
 
 **Does language proximity modulate language co-activation and domain-general control in multilinguals?**. The 15th International Symposium on Bilingualism (ISB15), San-Sebastian, Spain, June 9 – 13, 2025 (talk).
 
@@ -58,16 +69,15 @@ Lomonosov Moscow State University, Moscow, Russia:
 ### 2024
 **How does the presence of cognates impact the engagement of language control?**. Highlights in the Language Sciences Conference (HILS), Nijmegen, the Netherlands, July 8 – 11, 2024 (poster preparation).
 
-**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), Cracow, Poland, June 14, 2024 (poster presentation).
+**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 14, 2024 (poster presentation).
 
 **Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. Conference on Multilingualism (COM), Aix-en-Provence, France, June 10 - 12, 2024 (poster presentation).
 
 **Mutual Intelligibility Of Czech, Russian, And Spanish In Relation To Polish: the role of shared phonology and semantics**. International Max Planck Research School (IMPRS) for Language Sciences, Nijmegen, the Netherlands, June 5 – 7, 2024 (poster presentation).
 
-**Impact of cross-language similarity on language control**. NEURONUS Neuroscience Forum, Cracow, Poland, 25 - 27 Apr, 2024 (poster presentation).
+**Impact of cross-language similarity on language control**. NEURONUS Neuroscience Forum, Kraków, Poland, 25 - 27 Apr, 2024 (poster presentation).
 
 ### 2022
-
 **Exploring cross-language similarity and language control in multilingual language production**. Barcelona Summer School on Bilingualism and Multilingualism (BSBM), Barcelona, Spain, 23 - 15 Sept, 2022 (talk).
 
 **Language control during language production: the role of cross-language similarity**. The NYI Global Institute of Cultural, Cognitive and Linguistic Studies - V-NYI #5 CogFest, international team (online), 13 July, 2022 (talk).
@@ -79,13 +89,13 @@ Lomonosov Moscow State University, Moscow, Russia:
 **Cognitive factors in creating narratives by preschool children**. 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, Moscow, Russia, 14 - 17 Nov 2016 (talk).
 
 ## Guest Lectures
-**L2 Acquisition in Adult Language Learners**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Cracow, Poland, 6 May, 2025.
+**L2 Acquisition in Adult Language Learners**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, 6 May, 2025.
 
-**Is two better than one? Cognitive consequences of bilingualism**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Cracow, Poland, 25 Mar, 2025.
+**Is two better than one? Cognitive consequences of bilingualism**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, 25 Mar, 2025.
 
-**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek; Jagiellonian University, Cracow, Poland, 26 Feb, 2025.
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek; Jagiellonian University, Kraków, Poland, 26 Feb, 2025.
 
-**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Cracow, Poland, Nov, 2024.
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, Nov, 2024.
 
 ## Memberships and affiliations
 
@@ -110,7 +120,7 @@ Lomonosov Moscow State University, Moscow, Russia:
 
 ## Awards and recognitions
 
-**The Lane Kirkland Program completion: diploma with honors** (June 2021). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. Program website: [kirkland.edu.pl/en](kirkland.edu.pl/en).
+**The Lane Kirkland Program: diploma with honors** (June 2021). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. Program website: [kirkland.edu.pl/en](kirkland.edu.pl/en).
 
 **Master's Degree: diploma with honors** (July 2019). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. 
 
@@ -150,23 +160,23 @@ Intermediate R. *DataCamp, 15 Jan, 2021.*
 
 **PI: Language and cognitive control in migrant populations: a study on Ukrainian-Polish bilinguals** (Oct 2024 - present). 
 
-In a collaborative project with the Bilingualism, Mind, and Brain Lab, I investigate the language control and cognitive control indices in migrant populations. I am responsible for the assessment of a migrant group that speaks languages of high proximity: Ukrainian population residing in Poland.
+In a collaborative project with the Bilingualism, Mind, and Brain Lab (University of California, Irvine), I investigate the language control and cognitive control indices in migrant populations. I am responsible for the assessment of a migrant population that speaks languages of high proximity: Ukrainians residing in Poland.
 
-*Affiliation: Jagiellonian University, Cracow, Poland*
+*Affiliation: Jagiellonian University, Kraków, Poland*
 
 **PI: Exploring language proximity and magnitude of language control during multilingual language production** (Oct 2021 - present). 
 
 In my PhD project, I investigate the relationship between language proximity and language control in bilinguals. I aim to compare the magnitude of language control and domain-general cognitive control indices in several bilingual groups that speak languages with varying degrees of language proximity.
 
 *Scientific advisor: prof. dr Zofia Wodniecka*  
-*Affiliation: Jagiellonian University, Cracow, Poland*
+*Affiliation: Jagiellonian University, Kraków, Poland*
 
 **PI: Vocabulary learning strategies in acquiring an artificial language grammatically similar to Polish** (Sept 2020 - July 2021). 
 
 I compared the effectiveness of vocabulary learning strategies when learning a language similar to one's native. Participants - native Ukrainian speakers - had to learn the vocabulary of an artificial language similar to Polish. The word association strategy showed the highest effectiveness in vocabulary learning.
 
 *Scientific advisor: prof. dr Zofia Wodniecka*  
-*Affiliation: Jagiellonian University, Cracow, Poland*
+*Affiliation: Jagiellonian University, Kraków, Poland*
 
 **PI: Strategies of word search and recognition in native Japanese, Chinese and Russian bilinguals** (Sept 2017 - June 2019). 
 
@@ -179,7 +189,7 @@ During my graduate studies, I explored the strategies of word search and recogni
 
 I participated in the implementation of the research project "How language experience impacts cognitive control" supported by a grant awarded to Penn State University, USA, and Polish National Science Center, Poland. I performed the duties of a research assistant and interacted with the study participants during the experimental sessions.
 
-*Affiliation: Jagiellonian University, Cracow, Poland*
+*Affiliation: Jagiellonian University, Kraków, Poland*
 
 **PI: Structural features of children's narratives and their connection to dialectic thinking in senior preschoolers** (Sept 2013 - June 2017). 
 
@@ -197,5 +207,4 @@ During my undergraduate studies, I explored the children's narratives created wi
 ## Contact  
 You can reach me via email (anna.meliksetian@doctoral.uj.edu.pl) or on [LinkedIn](https://linkedin.com/in/ameliksetian).  
 
-Last updated on Sep 1, 2025
-
+Last updated on Sep 17, 2025
