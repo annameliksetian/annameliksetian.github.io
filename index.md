@@ -1,4 +1,4 @@
-<img src="assets/photo.jpg" alt="My photo" width="200" style="border-radius: 10%;">
+<img src="assets/photo1.jpg" alt="My photo" width="200" style="border-radius: 10%;">
 
 _PhD candidate / Cognitive Neuroscience_  
 
