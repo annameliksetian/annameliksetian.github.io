@@ -21,9 +21,9 @@ Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
 
 ## Work Experience 
 Foxford Online School, Moscow, Russia:
-- **Metrics Analyst** (2020 – 2021)  
-- **Product Administrator** (2020 – 2020)
-- **Methodologist** (2019 – 2020)
+- **Metrics Analyst** (2020 – 2021)
+- **Market Research Analyst (training role)** (2020 – 2020)
+- **Product Administrator** (2019 – 2020)
 
 Lomonosov Moscow State University, Moscow, Russia:
 - **Assistant: Department of Work Psychology** (2017 – 2018)
