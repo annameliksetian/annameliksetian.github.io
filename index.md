@@ -104,6 +104,8 @@ Social Camp Project. *Social Camp is a project that aims to support informal edu
 **Bilingualism Matters – Kraków Branch**. As a member of Bilingualism Matters Kraków, I help promote research-based awareness of bilingualism among educators, families, and policymakers. Our page: [bmkrakow.uj.edu.pl/zespol](https://bmkrakow.uj.edu.pl/zespol).
 
 ## Grants and scholarships
+**Calouste Gulbenkian Foundation, Armenian Communities Department** (Dec 2025). I received a grant for the standardisation of the Multilingual Picture Database (MultiPic, Duñabeitia et al., 2022) for the Eastern Armenian language. Grant nr: 351201.
+
 **Research funding "Research Support Module" within the Excellence Initiative** (Oct 2024). I received a grant for the data collection within a project exploring the role of the context of migration on language control in multilingual language production in a collaboration with prof. dr Judith Kroll and PhD candidate Guadalupe Mesdosa. Grant nr: WSPR.WSDNS.1.4.2024.41(2).
 
 **Stipend for young researchers, Polish National Science Centre** (Oct 2022). I received a stipend for working on a project "Competition or cooperation? Impact of short-term and long-term language experience on language regulation and cognitive functions in bilinguals" implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: UMO-2015/18/E/HS6/00428.
