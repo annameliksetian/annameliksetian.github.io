@@ -6,12 +6,12 @@ _PhD candidate / Cognitive Neuroscience_
 - **OCRID:** [0009-0004-0163-6745](https://orcid.org/0009-0004-0163-6745)  
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
-## About  
+## ABOUT  
 I am a doctoral candidate at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on multilinguals speaking languages of varying level of proximity. Specifically, I explore whether language proximity modulates the engagement of language control and domain-general control processes. In my free time, I engage in various educational and EdTech projects.
 
-## Education  
+## EDUCATION  
 - **PhD candidate, Cognitive Neuroscience**  
-Jagiellonian University, Kraków, Poland (2021 – 2026)  
+Jagiellonian University, Kraków, Poland (2021 – present)  
 
 - **MSc, Theoretical and Experimental Psychology** (with honors)  
 Lomonosov Moscow State University, Moscow, Russia (2017 – 2019)
@@ -19,7 +19,10 @@ Lomonosov Moscow State University, Moscow, Russia (2017 – 2019)
 - **BA, Psychology and Pedagogy in Education** (with honors)  
 Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
 
-## Work Experience 
+## WORK EXPERIENCE
+Copernicus Science Center, Warsaw, Poland:
+- **Senior Specialist / Coordinator of the Research and Evaluation Process** (2026 - present). *[ZBADAI project](https://www.kopernik.org.pl/projekty-dofinansowane/zbadai-projekt-edukacyjny), Department for Research on Competencies of the Future*
+
 Foxford Online School, Moscow, Russia:
 - **Metrics Analyst** (2020 – 2021)
 - **Market Research Analyst (training role)** (2020 – 2020)
@@ -28,18 +31,18 @@ Foxford Online School, Moscow, Russia:
 Lomonosov Moscow State University, Moscow, Russia:
 - **Assistant: Department of Work Psychology** (2017 – 2018)
 
-## Academic Service
+## ACADEMIC SERVICE
 Cognition - International Journal of Cognitive Science:
 - **Ad hoc Reviewer** (2025 – present). *Reviewed submitted articles in the field of psycholinguistics and bilingualism.*
 
 Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Poland:
 - **Organizing Committee Member** (Sep 2025). *Selected talks and contributed to designing the scientific program of the conference.*
 
-Social Camp Project. *Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw*:
+Social Camp. *Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw*:
 - **Mentor in the field of EdTech** (2024 - 2025). *Conducted 10 one-hour mentoring sessions with an early-stage entrepreneur in the field of education technology.*
 
-## Publications  
-*Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition (R&R, Sep 2025).
+## PUBLICATIONS 
+*Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition (R&R, Mar 2026).
 
 *Meliksetian.* **Formation of grammatical skills in the English language based on the didactic system of Piotr Galperin** (in Russian). Scientific-Methodological Electronic Journal “Concept,” 26, 786–790, 2016, ISSN 2304-120X, [link](https://e-koncept.ru/2016/46958.htm)
 
@@ -47,7 +50,9 @@ Social Camp Project. *Social Camp is a project that aims to support informal edu
 
 *Meliksetian.* **Usage of children’s literature as the foundation of an art therapy program with children under state care: a review of experience** (in Russian). Scientific Journal “The Young Scientist”, 22.1, 143–146, 2015, ISSN 2072-0297, [link](https://moluch.ru/archive/102/23234/)
 
-## Invited Talks
+## INVITED TALKS
+
+**PhD opportunities in Jagiellonian University**. Meeting for the Lane Kirkland Scholarship Program recipients, Leaders of Change Foundation, Kraków, Mar 30, 2026.
 
 **Academia in Poland - career opportunities**. PIRE Program in Language Learning and Bilingualism Undergraduate Meeting, University of California, Irvine, Aug 13, 2025 (hosted by prof. dr Judith Kroll).
 
@@ -55,7 +60,7 @@ Social Camp Project. *Social Camp is a project that aims to support informal edu
 
 **Exploring the role of language proximity in language and domain-general control in multilinguals**. Northeastern University London, Oct 23, 2024 (hosted by dr Julia Hofweber).
 
-## Conference Presentations
+## CONFERENCE PRESENTATIONS
 
 ### 2025
 **Defining Language Proximity**. Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Kraków, Poland, September 29 - 30 (talk).
@@ -88,7 +93,9 @@ Social Camp Project. *Social Camp is a project that aims to support informal edu
 ### 2016
 **Cognitive factors in creating narratives by preschool children**. 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, Moscow, Russia, 14 - 17 Nov 2016 (talk).
 
-## Guest Lectures
+## GUEST LECTURES
+**Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek; Jagiellonian University, Kraków, Poland, 16 Mar, 2026.
+
 **L2 Acquisition in Adult Language Learners**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, 6 May, 2025.
 
 **Is two better than one? Cognitive consequences of bilingualism**. Course: Life in two languages - cognitive apects of bilingualism. Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, 25 Mar, 2025.
@@ -97,18 +104,20 @@ Social Camp Project. *Social Camp is a project that aims to support informal edu
 
 **Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Psychologia i neuronauka poznawcza (Psychology and cognitive neuroscience). Lecturer: prof. dr Zofia Wodniecka; Jagiellonian University, Kraków, Poland, Nov, 2024.
 
-## Memberships and affiliations
+## MEMBERSHIPS AND AFFILIATIONS
 
 **LangUsta – Psychology of Language and Bilingualism Lab, Jagiellonian University**. I am a doctoral researcher at LangUsta, where I investigate language control and domain-general control in multilinguals. Our page: [langusta.psychologia.uj.edu.pl/people](https://langusta.psychologia.uj.edu.pl/people).
 
 **Bilingualism Matters – Kraków Branch**. As a member of Bilingualism Matters Kraków, I help promote research-based awareness of bilingualism among educators, families, and policymakers. Our page: [bmkrakow.uj.edu.pl/zespol](https://bmkrakow.uj.edu.pl/zespol).
 
-## Grants and scholarships
+## GRANTS AND SCHOLARSHIPS
 **Calouste Gulbenkian Foundation, Armenian Communities Department** (Dec 2025). I received a grant for the standardisation of the Multilingual Picture Database (MultiPic, Duñabeitia et al., 2022) for the Eastern Armenian language. Grant nr: 351201.
+
+**Stipend for young researchers,OPUS, Polish National Science Centre** (Oct 2025). I received a stipend for working on a project  “Mechanisms of language control underlying speech production in bilinguals: an fMRI study” implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: 2017/27/B/HS6/00959, PI: prof. dr Zofia Wodniecka-Chlipalska.
 
 **Research funding "Research Support Module" within the Excellence Initiative** (Oct 2024). I received a grant for the data collection within a project exploring the role of the context of migration on language control in multilingual language production in a collaboration with prof. dr Judith Kroll and PhD candidate Guadalupe Mesdosa. Grant nr: WSPR.WSDNS.1.4.2024.41(2).
 
-**Stipend for young researchers, Polish National Science Centre** (Oct 2022). I received a stipend for working on a project "Competition or cooperation? Impact of short-term and long-term language experience on language regulation and cognitive functions in bilinguals" implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: UMO-2015/18/E/HS6/00428.
+**Stipend for young researchers, SONATA, Polish National Science Centre** (Oct 2022). I received a stipend for working on a project "Competition or cooperation? Impact of short-term and long-term language experience on language regulation and cognitive functions in bilinguals" implemented at the Psychology of Language and Bilingualism Laboratory, Jagiellonian University. Grant nr: 2015/18/E/HS6/00428, PI: prof. dr Zofia Wodniecka-Chlipalska.
 
 **Research funding "Research Support Module" within the Excellence Initiative** (July 2022). I received a grant for the implementation of a project exploring the role of mutual intelligibility on language control in multilingual language production, which then constituted a part of my PhD project. Grant nr: WSPR.WFiloz.1.5.2022.7.
 
@@ -120,7 +129,7 @@ Social Camp Project. *Social Camp is a project that aims to support informal edu
 
 **Advanced State Academic Scholarship for Scientific Merit** (Sep 2015 - Feb 2016). I was awarded the Advanced State Academic Scholarship in recognition of my scientific merit, a distinction granted to students demonstrating outstanding academic excellence.
 
-## Awards and recognitions
+## AWARDS AND RECOGNITIONS
 
 **The Lane Kirkland Program: diploma with honors** (June 2021). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. Program website: [kirkland.edu.pl/en](kirkland.edu.pl/en).
 
@@ -128,7 +137,7 @@ Social Camp Project. *Social Camp is a project that aims to support informal edu
 
 **Bachelor's Degree: diploma with honors** (July 2017). I was awarded a diploma with honors — an accolade granted only to exceptional alumni — as a formal recognition of my outstanding contributions and achievements during the program. 
 
-## Summer schools and workshops
+## SUMMER SCHOOLS AND TRAINING
 
 ### 2024
 Cognitive Neuroimaging Skills Training In Cambridge (COGNESTIC). *MRC Cognition and Brain Sciences Unit, University of Cambridge, 16 - 27 Sep, 2024.*
@@ -158,9 +167,14 @@ Introduction to the Tidyverse. *DataCamp, 11 Mar, 2021.*
 
 Intermediate R. *DataCamp, 15 Jan, 2021.*
 
-## Research projects
+## SELECTED RESERACH PROJECTS
+**PI: Standardisation of the Multilingual Picture Database (MultiPic) for the Eastern Armenian Language** (Dec 2025 - present). 
 
-**PI: Language and cognitive control in migrant populations: a study on Ukrainian-Polish bilinguals** (Oct 2024 - present). 
+In a collaborative project with the University of Readink, UK, I conduct the standardisation of the MultiPic database for the Eastern Armenian language. I am responsible for the adaptation of the experimental task to the Armenian language, recruitment of the representative sample, data analysis, and reporting the final results.
+
+*Affiliation: Jagiellonian University, Kraków, Poland*
+
+**PI: Language and cognitive control in migrant populations: a study on Ukrainian-Polish bilinguals** (Oct 2024 - May 2025). 
 
 In a collaborative project with the Bilingualism, Mind, and Brain Lab (University of California, Irvine), I investigate the language control and cognitive control indices in migrant populations. I am responsible for the assessment of a migrant population that speaks languages of high proximity: Ukrainians residing in Poland.
 
@@ -200,13 +214,13 @@ During my undergraduate studies, I explored the children's narratives created wi
 *Scientific advisor: dr Olga Shiyan*  
 *Affiliation: Russian State University for the Humanities, Moscow, Russia*
 
-## Languages
+## LANGUAGES
 - Russian (native speaker)
 - Armenian (native spreaker, limited proficiency)
 - English (C2)
 - Polish (B2)
 
-## Contact  
+## CONTACT 
 You can reach me via email (anna.meliksetian@doctoral.uj.edu.pl) or on [LinkedIn](https://linkedin.com/in/ameliksetian).  
 
-Last updated on Sep 17, 2025
+Last updated on Apr 4, 2026
