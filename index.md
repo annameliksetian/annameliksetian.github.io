@@ -2,7 +2,7 @@
 
 _Researcher at Copernicus Science Centre / PhD candidate in Cognitive Neuroscience at Jagiellonian University_  
 
-- **Email:** anna.meliksetian@doctoral.uj.edu.pl
+- **Email:** anna.meliksetian@doctoral.uj.edu.pl, anna.meliksetian@koeprnik.org.pl
 - **OCRID:** [0009-0004-0163-6745](https://orcid.org/0009-0004-0163-6745)  
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
@@ -160,6 +160,8 @@ Creating Successful Research Posters. *Springer Nature - a Nature Masterclasses 
 
 ### 2023
 Seventh Summer School on Statistical Methods for Linguistics and Psychology (Foundational methods in frequentist statistics). *University of Potsdam, Sep 11 - 15, 2023.*
+
+Introduction to Structural Equation Modeling for Cross Sectional Data *Jagiellonian University, Sep 5 - 6, 2023.*
 
 Hierarchical and Mixed Effects Models in R. *DataCamp, Apr 18, 2023.*
 
