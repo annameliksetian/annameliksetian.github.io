@@ -7,7 +7,7 @@ _Researcher at Copernicus Science Centre / PhD candidate in Cognitive Neuroscien
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
 ## ABOUT  
-PhD candidate in Cognitive Neuroscience with 5 years of experience leading and coordinating multi-country research across academia and EdTech. I do my PhD at the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on the modulating effect of language similarity on language and cognitive control in multilinguals. Alongside my academic work, I contribute to the ZBADAI project as a lead researcher at the Copernicus Science Centre.
+PhD candidate in Cognitive Neuroscience with 5 years of experience leading and coordinating multi-country research across academia and EdTech. I do my PhD at the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on the modulating effect of language proximity on language control and cognitive control in multilinguals. Alongside my academic work, I contribute to the ZBADAI project as a lead researcher at the Copernicus Science Centre.
 
 ## EDUCATION  
 - **PhD candidate, Cognitive Neuroscience**  
