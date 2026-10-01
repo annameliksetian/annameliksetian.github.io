@@ -38,7 +38,7 @@ Cognition - International Journal of Cognitive Science:
 Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Poland:
 - **Organizing Committee Member** (Sep 2025). *Selected talks and contributed to designing the scientific program of the conference.*
 
-Social Camp. *Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw*:
+Social Camp. Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw:
 - **Mentor in the field of EdTech** (2024 - 2025). *Conducted 10 one-hour mentoring sessions with an early-stage entrepreneur in the field of education technology.*
 
 ## PUBLICATIONS 
@@ -54,11 +54,11 @@ Social Camp. *Social Camp is a project that aims to support informal education a
 
 ## INVITED TALKS
 
-**Two languages, one mind** (in Polish). Open lecture for the employees of the Copernicus Science Centre, Warsaw, Sep 23, 2026.
+**Two languages, one mind - does a bilingual brain function the same way as monolingual?** (in Polish). Open lecture for the employees of the Copernicus Science Centre, Warsaw, Sep 23, 2026.
 
 **Research Report: AI in education – evaluating the outcomes of a Hackathon for teachers** (in Polish). Premiere of the course on AI, [ZBADAI project](https://www.kopernik.org.pl/en/node/3616), Copernicus Science Centre, Warsaw, Sep 3, 2026.
 
-**PhD opportunities in Jagiellonian University**. Open lecture for the Lane Kirkland Scholarship Program recipients, Leaders of Change Foundation, Kraków, Mar 30, 2026.
+**PhD opportunities at Jagiellonian University**. Open lecture for the Lane Kirkland Scholarship Program recipients, Leaders of Change Foundation, Kraków, Mar 30, 2026.
 
 **Academia in Poland - career opportunities**. PIRE Program in Language Learning and Bilingualism Undergraduate Meeting, University of California, Irvine, Aug 13, 2025 (hosted by prof. dr Judith Kroll).
 
@@ -69,7 +69,7 @@ Social Camp. *Social Camp is a project that aims to support informal education a
 ## CONFERENCE PRESENTATIONS
 
 ### 2026
-**Does language proximity modulate language co-activation and language control in multilinguals?**. 14th International Conference on Third Language Acquisition and Multilingualism (IAM L3), Adam Mickiewicz University, Poznań, Poland, Sep 3 - 5 (talk).
+**Does language proximity modulate language co-activation and language control in multilinguals?** 14th International Conference on Third Language Acquisition and Multilingualism (IAM L3), Adam Mickiewicz University, Poznań, Poland, Sep 3 - 5 (talk).
 
 ### 2025
 **Defining Language Proximity**. Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Kraków, Poland, Sep 29 - 30 (talk).
