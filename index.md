@@ -71,6 +71,8 @@ Social Camp. Social Camp is a project that aims to support informal education an
 ### 2026
 **Does language proximity modulate language co-activation and language control in multilinguals?** 14th International Conference on Third Language Acquisition and Multilingualism (IAM L3), Adam Mickiewicz University, Poznań, Poland, Sep 3 - 5 (talk).
 
+**Does language proximity modulate language co-activation and language control in multilinguals?** 34th Psychological Colloquia of the Polish Academy of Sciences, Jagiellonian University, Kraków, Poland, June 11 (poster).  
+
 ### 2025
 **Defining Language Proximity**. Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Kraków, Poland, Sep 29 - 30 (talk).
 
