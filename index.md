@@ -2,7 +2,7 @@
 
 _Researcher at Copernicus Science Centre / PhD candidate in Cognitive Neuroscience at Jagiellonian University_  
 
-- **Email:** anna.meliksetian@doctoral.uj.edu.pl, anna.meliksetian@koeprnik.org.pl
+- **Email:** anna.meliksetian@kopernik.org.pl / anna.meliksetian@doctoral.uj.edu.pl
 - **OCRID:** [0009-0004-0163-6745](https://orcid.org/0009-0004-0163-6745)  
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
