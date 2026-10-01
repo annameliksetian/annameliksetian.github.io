@@ -76,22 +76,22 @@ Social Camp. Social Camp is a project that aims to support informal education an
 ### 2025
 **Defining Language Proximity**. Language Matters in Poland - Celebrating 15 years of Psychology of Language and Bilingualism Lab (LangUsta), Jagiellonian University, Kraków, Poland, Sep 29 - 30 (talk).
 
-**Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 27, 2025 (poster presentation).
+**Bilingualism Matters - current projects organised by the Kraków Branch**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 27, 2025 (poster).
 
 **Does language proximity modulate language co-activation and domain-general control in multilinguals?** The 15th International Symposium on Bilingualism (ISB15), San-Sebastian, Spain, June 9 – 13, 2025 (talk).
 
 **Exploring the role of language proximity in language and domain-general control in multilinguals**. Adaptations to Multilingualism and the Role of Linguistic Proximity (ATOM), Barcelona, Spain, Feb 13 – 14, 2025 (talk).
 
 ### 2024
-**How does the presence of cognates impact the engagement of language control?** Highlights in the Language Sciences Conference (HILS), Nijmegen, the Netherlands, July 8 – 11, 2024 (poster preparation).
+**How does the presence of cognates impact the engagement of language control?** Highlights in the Language Sciences Conference (HILS), Nijmegen, the Netherlands, July 8 – 11, 2024 (poster).
 
-**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 14, 2024 (poster presentation).
+**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. The Spring/Summer Institute-wide Poster Session (SIPS), Kraków, Poland, June 14, 2024 (poster).
 
-**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. Conference on Multilingualism (COM), Aix-en-Provence, France, June 10 - 12, 2024 (poster presentation).
+**Deciphering Unfamiliar Languages: Mutual Intelligibility of Czech, Russian, and Spanish in Relation to Polish**. Conference on Multilingualism (COM), Aix-en-Provence, France, June 10 - 12, 2024 (poster).
 
-**Mutual Intelligibility Of Czech, Russian, And Spanish In Relation To Polish: the role of shared phonology and semantics**. International Max Planck Research School (IMPRS) for Language Sciences, Nijmegen, the Netherlands, June 5 – 7, 2024 (poster presentation).
+**Mutual Intelligibility Of Czech, Russian, And Spanish In Relation To Polish: the role of shared phonology and semantics**. International Max Planck Research School (IMPRS) for Language Sciences, Nijmegen, the Netherlands, June 5 – 7, 2024 (poster).
 
-**Impact of cross-language similarity on language control**. NEURONUS Neuroscience Forum, Kraków, Poland, Apr 25 - 27, 2024 (poster presentation).
+**Impact of cross-language similarity on language control**. NEURONUS Neuroscience Forum, Kraków, Poland, Apr 25 - 27, 2024 (poster).
 
 ### 2022
 **Exploring cross-language similarity and language control in multilingual language production**. Barcelona Summer School on Bilingualism and Multilingualism (BSBM), Barcelona, Spain, Sep 23 - 15, 2022 (talk).
