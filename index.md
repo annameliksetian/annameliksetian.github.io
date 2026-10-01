@@ -25,8 +25,8 @@ Copernicus Science Center, Warsaw, Poland:
 
 Foxford Online School, Moscow, Russia:
 - **Metrics Analyst** (2020 – 2021)
-- **Market Research Analyst (training role)** (2020 – 2020)
-- **Product Administrator** (2019 – 2020)
+- **Product Administrator** (2020 – 2020)
+- **Methodologist** (2019 – 2020)
 
 Lomonosov Moscow State University, Moscow, Russia:
 - **Assistant: Department of Work Psychology** (2017 – 2018)
