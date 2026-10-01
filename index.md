@@ -52,20 +52,6 @@ Social Camp. Social Camp is a project that aims to support informal education an
 
 *Meliksetian.* **Usage of children’s literature as the foundation of an art therapy program with children under state care: a review of experience** (in Russian). Scientific Journal “The Young Scientist”, 22.1, 143–146, 2015, ISSN 2072-0297, [link](https://moluch.ru/archive/102/23234/)
 
-## INVITED TALKS
-
-**Two languages, one mind - does a bilingual brain function the same way as monolingual?** (in Polish). Open lecture for the employees of the Copernicus Science Centre, Warsaw, Sep 23, 2026.
-
-**Research Report: AI in education – evaluating the outcomes of a Hackathon for teachers** (in Polish). Premiere of the course on AI, [ZBADAI project](https://www.kopernik.org.pl/en/node/3616), Copernicus Science Centre, Warsaw, Sep 3, 2026.
-
-**PhD opportunities at Jagiellonian University**. Open lecture for the Lane Kirkland Scholarship Program recipients, Leaders of Change Foundation, Kraków, Mar 30, 2026.
-
-**Academia in Poland - career opportunities**. PIRE Program in Language Learning and Bilingualism Undergraduate Meeting, University of California, Irvine, Aug 13, 2025 (hosted by prof. dr Judith Kroll).
-
-**Does language proximity modulate language co-activation and domain-general control in multilinguals?** The Bilingualism, Mind, and Brain Lab Talk, University of California, Irvine, Jul 21, 2025 (hosted by prof. dr Judith Kroll).
-
-**Exploring the role of language proximity in language and domain-general control in multilinguals**. Northeastern University London, Oct 23, 2024 (hosted by dr Julia Hofweber).
-
 ## CONFERENCE PRESENTATIONS
 
 ### 2026
@@ -103,6 +89,20 @@ Social Camp. Social Camp is a project that aims to support informal education an
 
 ### 2016
 **Cognitive factors in creating narratives by preschool children**. 17th International Readings in Memory of Lev Vygotsky: cultural-historical psychology - from scientific revolution to transformation of social practices, Moscow, Russia, Nov 14 - 17, 2016 (talk).
+
+## INVITED TALKS
+
+**Two languages, one mind - does a bilingual brain function the same way as monolingual?** (in Polish). Open lecture for the employees of the Copernicus Science Centre, Warsaw, Sep 23, 2026.
+
+**Research Report: AI in education – evaluating the outcomes of a Hackathon for teachers** (in Polish). Premiere of the course on AI, [ZBADAI project](https://www.kopernik.org.pl/en/node/3616), Copernicus Science Centre, Warsaw, Sep 3, 2026.
+
+**PhD opportunities at Jagiellonian University**. Open lecture for the Lane Kirkland Scholarship Program recipients, Leaders of Change Foundation, Kraków, Mar 30, 2026.
+
+**Academia in Poland - career opportunities**. PIRE Program in Language Learning and Bilingualism Undergraduate Meeting, University of California, Irvine, Aug 13, 2025 (hosted by prof. dr Judith Kroll).
+
+**Does language proximity modulate language co-activation and domain-general control in multilinguals?** The Bilingualism, Mind, and Brain Lab Talk, University of California, Irvine, Jul 21, 2025 (hosted by prof. dr Judith Kroll).
+
+**Exploring the role of language proximity in language and domain-general control in multilinguals**. Northeastern University London, Oct 23, 2024 (hosted by dr Julia Hofweber).
 
 ## GUEST LECTURES
 **Czy umysł osób dwujęzycznych funkcjonuje tak samo jak jednojęzycznych? (Does a bilingual brain function the same way as monolingual? in Polish)**. Course: Methodology of teaching a foreig language. Lecturer: dr Karolina Gołąbek; Jagiellonian University, Kraków, Poland, Mar 16, 2026.
